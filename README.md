@@ -26,9 +26,8 @@
 
 ## 🚀 Projects
 
-- ☕ Starbucks Sales Dashboard
-- 📈 Sales Analytics Dashboard
-- 📊 HR Analytics Dashboard
+- 🚖 Uber Data Analytics Dashboard (Power BI)
+- 🔄 More projects coming soon...
 
 ---
 
