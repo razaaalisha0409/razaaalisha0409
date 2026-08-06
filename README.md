@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋, I'm Alisha Khan
 
-<!--
-**razaaalisha0409/razaaalisha0409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Aspiring Data Analyst
+
+💻 Learning Excel, SQL, Power BI & Python
+
+📈 Passionate about Data Visualization and Business Analytics
+
+---
+
+## 🛠 Skills
+
+- Microsoft Excel
+- SQL
+- Power BI
+- Python
+- NumPy
+- Pandas
+- Git & GitHub
+
+---
+
+## 🚀 Projects
+
+- ☕ Starbucks Sales Dashboard
+- 📈 Sales Analytics Dashboard
+- 📊 HR Analytics Dashboard
+
+---
+
+## 📫 Contact
+
+📧 Email: razaaalisha0409@gmail.com
+
+---
+
+⭐ Thanks for visiting my GitHub profile!
