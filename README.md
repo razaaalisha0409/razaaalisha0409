@@ -2,7 +2,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 B.Tech CSE Student
+🎓 Graduate
 
 📊 Aspiring Data Analyst
 
